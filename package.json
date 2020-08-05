@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@types/webpack": "^4.41.21",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
